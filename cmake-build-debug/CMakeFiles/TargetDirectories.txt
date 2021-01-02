@@ -1,0 +1,3 @@
+/Users/richardrosenthal/CLionProjects/Escape2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/richardrosenthal/CLionProjects/Escape2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/richardrosenthal/CLionProjects/Escape2020/cmake-build-debug/CMakeFiles/Escape2020.dir
